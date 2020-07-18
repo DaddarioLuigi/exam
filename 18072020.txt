@@ -1,0 +1,4 @@
+1. eclipse prototyping
+2. sda.docx
+3. smartika
+4. ing sw (github workflow)
